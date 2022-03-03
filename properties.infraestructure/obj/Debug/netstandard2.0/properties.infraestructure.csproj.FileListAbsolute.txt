@@ -1,0 +1,12 @@
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\bin\Debug\netstandard2.0\properties.infraestructure.deps.json
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\bin\Debug\netstandard2.0\properties.infraestructure.dll
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\bin\Debug\netstandard2.0\properties.infraestructure.pdb
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\bin\Debug\netstandard2.0\properties.core.dll
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\bin\Debug\netstandard2.0\properties.core.pdb
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\obj\Debug\netstandard2.0\properties.infraestructure.csprojAssemblyReference.cache
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\obj\Debug\netstandard2.0\properties.infraestructure.AssemblyInfoInputs.cache
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\obj\Debug\netstandard2.0\properties.infraestructure.AssemblyInfo.cs
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\obj\Debug\netstandard2.0\properties.infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\obj\Debug\netstandard2.0\properties.infraestructure.csproj.CopyComplete
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\obj\Debug\netstandard2.0\properties.infraestructure.dll
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.infraestructure\obj\Debug\netstandard2.0\properties.infraestructure.pdb

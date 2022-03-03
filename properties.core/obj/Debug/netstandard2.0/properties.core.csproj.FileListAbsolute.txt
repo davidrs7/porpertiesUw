@@ -1,0 +1,8 @@
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.core\bin\Debug\netstandard2.0\properties.core.deps.json
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.core\bin\Debug\netstandard2.0\properties.core.dll
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.core\bin\Debug\netstandard2.0\properties.core.pdb
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.core\obj\Debug\netstandard2.0\properties.core.AssemblyInfoInputs.cache
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.core\obj\Debug\netstandard2.0\properties.core.AssemblyInfo.cs
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.core\obj\Debug\netstandard2.0\properties.core.csproj.CoreCompileInputs.cache
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.core\obj\Debug\netstandard2.0\properties.core.dll
+C:\Users\David Rodriguez\Documents\David\david\weelo\properties\properties\properties.core\obj\Debug\netstandard2.0\properties.core.pdb

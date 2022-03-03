@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>properties.api</name>
+    </assembly>
+    <members>
+        <member name="M:properties.api.Controllers.propertyController.getPorperties(properties.core.QueryFilters.PropertyQueryFilters)">
+            <summary>
+            Return all properties
+            </summary>
+            <param name="filters">Filters to apply </param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
